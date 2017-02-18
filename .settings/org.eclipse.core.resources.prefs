@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//bin/clean.bat=GBK
+encoding//bin/cleanide.bat=GBK
+encoding//bin/deploy.bat=GBK
+encoding//bin/eclipse.bat=GBK
+encoding//bin/package.bat=GBK
+encoding//bin/run-jetty.bat=GBK
+encoding//bin/run-tomcat6.bat=GBK
+encoding//bin/run-tomcat7.bat=GBK
+encoding//bin/versions.bat=GBK
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
