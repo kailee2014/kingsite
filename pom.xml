@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.blooms.site</groupId>
-    <artifactId>kingsite</artifactId>
+    <artifactId>ktvsite</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
     
-    <name>kingsite</name>
+    <name>ktvsite</name>
     <url></url>
     <inceptionYear></inceptionYear>
     
