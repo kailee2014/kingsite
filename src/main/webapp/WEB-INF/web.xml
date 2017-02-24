@@ -11,6 +11,7 @@
         <param-name>contextConfigLocation</param-name>
         <param-value>classpath*:/spring-context*.xml</param-value>
     </context-param>
+    
     <listener>
         <listener-class>com.blooms.kingsite.modules.sys.listener.WebContextListener</listener-class>
     </listener>
