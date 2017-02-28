@@ -37,7 +37,7 @@ KingSite 提供了常用工具进行封装，包括日志工具、缓存工具�
 8.	连接池监视：监视当期系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
 9.	工作流引擎：实现业务工单流转、在线流程设计器。
 
-## 为何选择JeeSite
+## 为何选择KingSite
 
 1. 使用 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 协议，源代码完全开源，无商业限制。
 2. 使用目前主流的Java EE开发框架，简单易学，学习成本低。
@@ -105,11 +105,11 @@ KingSite 提供了常用工具进行封装，包括日志工具、缓存工具�
 ## 快速体验
 
 1. 具备运行环境：JDK1.6+、Maven3.0+、MySql5+或Oracle10g+。
-2. 修改src\main\resources\jeesite.properties文件中的数据库设置参数。
+2. 修改src\main\resources\kingsite.properties文件中的数据库设置参数。
 3. 根据修改参数创建对应MySql或Oracle数据库用户和参数。
 4. 运行bin\init-db.bat脚本，即可导入表结构及演示数据(linux操作系统：在控制台中切换至项目根目录，运行命令：mvn antrun:run -Pinit-db)
 5. 运行bin\run-tomcat7.bat或bin\run-jetty.bat，启动Web服务器（第一次运行，需要下载依赖jar包，请耐心等待）。
-6. 最高管理员账号，用户名：thinkgem 密码：admin
+6. 最高管理员账号，用户名：blooms 密码：111
 
 ## 常见问题
 
